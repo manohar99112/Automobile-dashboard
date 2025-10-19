@@ -133,7 +133,9 @@ Dynamic Insights:Using slicers and bookmarks, stakeholders can instantly switch 
  # Conclusion:
 This Power BI Automobile Dashboard transforms raw automotive data into actionable business insights.  
 It empowers decision-makers to evaluate pricing, performance, and efficiency at every level — from brand to model — enabling smarter, data-driven strategies in the automobile industry.
-(https://github.com/manohar99112/Automobile-dashboard/blob/main/Screenshot%202025-10-20%20003043.png)
+
+# screenshot:
+https://github.com/manohar99112/Automobile-dashboard/blob/main/Screenshot%202025-10-20%20003043.png
 
 
 
