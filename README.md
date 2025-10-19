@@ -64,7 +64,7 @@ Aligned and locked single-row KPIs at the top:
 
 **Row-Level Security**
 Defined roles under **Model → Manage Roles**:
-```DAX
+DAX
 [make] = "honda".
 
 Key DAX Measure-
@@ -115,15 +115,15 @@ However, management teams often lack visibility into which manufacturers, fuel t
 10. How can management drill into a specific manufacturer’s performance?.
 
  Business Impact:
-✅ Improved decision-making for pricing and marketing through real-time insights.  
-✅ Helped management understand manufacturer-wise performance and market share.  
-✅ Identified inefficient or low-performing car models for potential optimization.  
-✅ Enhanced reporting transparency by implementing Row-Level Security.  
-✅ Enabled dynamic filtering to view Top N cars based on user-selected thresholds.  
-✅ Supported strategic planning by comparing gas vs diesel market trends.  
-✅ Simplified analysis with intuitive KPIs and interactive visuals.
+Improved decision-making for pricing and marketing through real-time insights.  
+Helped management understand manufacturer-wise performance and market share.  
+Identified inefficient or low-performing car models for potential optimization.  
+Enhanced reporting transparency by implementing Row-Level Security.  
+Enabled dynamic filtering to view Top N cars based on user-selected thresholds.  
+Supported strategic planning by comparing gas vs diesel market trends.  
+Simplified analysis with intuitive KPIs and interactive visuals.
 
- Insights Derived
+ Insights Derived:
 Top Manufacturers:  Certain brands consistently produce higher-priced vehicles, indicating premium positioning.   Engine vs Price Correlation: Cars with larger engine sizes generally command higher prices, confirming performance-value linkage.  
 Fuel Type Trend: Gas cars dominate the market, but diesel models offer higher highway efficiency.  
 Underperforming Segments:Some body styles (e.g., hatchbacks) show lower average prices and horsepower, suggesting cost-driven appeal.  
