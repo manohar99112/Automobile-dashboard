@@ -95,16 +95,16 @@ SUMMARIZECOLUMNS(
     "Average City MPG", AVERAGE(Automobile[city-mpg])
 )
 
-Business Problem:
+ Business Problem:
 The automobile market includes a wide variety of vehicles differing by price, body style, performance, and fuel efficiency.  
 However, management teams often lack visibility into which manufacturers, fuel types or body styles are driving profitability and efficiency.  
 
-The objective of this dashboard is to help stakeholders:
+ The objective of this dashboard is to help stakeholders:
 - Identify top-performing manufacturers and underperforming segments.  
 - Understand how engine characteristicsimpact price and fuel efficiency.  
 - Support data-driven decisions for marketing, production and pricing strategies.
 
-Key Business Questions:
+ Key Business Questions:
 1. How many cars does each manufacturer produce?  
 2. What is the average price of cars across makes and fuel types?  
 3. How does horsepower vary by body style?  
@@ -116,7 +116,7 @@ Key Business Questions:
 9. Which car segments (Low, Medium, High price) dominate the market?  
 10. How can management drill into a specific manufacturer’s performance?
 
-Business Impact:
+ Business Impact:
 ✅ Improved decision-making for pricing and marketing through real-time insights.  
 ✅ Helped management understand manufacturer-wise performance and market share.  
 ✅ Identified inefficient or low-performing car models for potential optimization.  
@@ -125,14 +125,14 @@ Business Impact:
 ✅ Supported strategic planning by comparing gas vs diesel market trends.  
 ✅ Simplified analysis with intuitive KPIs and interactive visuals.
 
-Insights Derived
+ Insights Derived
 Top Manufacturers:  Certain brands consistently produce higher-priced vehicles, indicating premium positioning.   Engine vs Price Correlation: Cars with larger engine sizes generally command higher prices, confirming performance-value linkage.  
 Fuel Type Trend: Gas cars dominate the market, but diesel models offer higher highway efficiency.  
 Underperforming Segments:Some body styles (e.g., hatchbacks) show lower average prices and horsepower, suggesting cost-driven appeal.  
 Efficiency Insight: A balance between horsepower and MPG defines mid-segment cars that appeal to fuel-conscious buyers.  
 Dynamic Insights:Using slicers and bookmarks, stakeholders can instantly switch between views to compare fuel categories and manufacturers.
 
-Conclusion:
+ Conclusion:
 This Power BI Automobile Dashboard transforms raw automotive data into actionable business insights.  
 It empowers decision-makers to evaluate pricing, performance, and efficiency at every level — from brand to model — enabling smarter, data-driven strategies in the automobile industry.
 
