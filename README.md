@@ -1,5 +1,5 @@
 # Automobile-dashboard
-🚗 Automobile Data Analysis Dashboard (Power BI)
+# 🚗 Automobile Data Analysis Dashboard (Power BI)
 Project Overview :This Power BI project analyzes an Automobile dataset to uncover insights about car pricing, performance, fuel efficiency and manufacturer trends.  It includes data cleaning, transformation and advanced DAX calculations to deliver an interactive dashboard with drill-throughs, dynamic filters and KPIs.
 
  Dataset Information
