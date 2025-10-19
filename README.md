@@ -25,7 +25,6 @@ Data transformation was performed in Power Query:
    - `Power_to_Weight` and other ratios
 
  📊 Dashboard Features
-
 **KPIs**
 Aligned and locked single-row KPIs at the top:
 - Total Cars  
@@ -68,8 +67,7 @@ Defined roles under **Model → Manage Roles**:
 ```DAX
 [make] = "honda"
 
- Key DAX Measure-
-
+Key DAX Measure-
 # Average_Price = AVERAGE(Automobile[price])
 
 # Total_Cars = COUNTROWS(Automobile)
