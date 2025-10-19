@@ -65,7 +65,7 @@ Aligned and locked single-row KPIs at the top:
 **Row-Level Security**
 Defined roles under **Model → Manage Roles**:
 ```DAX
-[make] = "honda"
+[make] = "honda".
 
 Key DAX Measure-
 # Average_Price = AVERAGE(Automobile[price])
@@ -91,7 +91,7 @@ SUMMARIZECOLUMNS(
     "Average Price", AVERAGE(Automobile[price]),
     "Average Horsepower", AVERAGE(Automobile[horsepower]),
     "Average City MPG", AVERAGE(Automobile[city-mpg])
-)
+).
 
  Business Problem:
 The automobile market includes a wide variety of vehicles differing by price, body style, performance, and fuel efficiency.  
@@ -112,7 +112,7 @@ However, management teams often lack visibility into which manufacturers, fuel t
 7. What are the most fuel-efficient makes or models?  
 8. How do city-mpg and highway-mpg correlate across fuel types?  
 9. Which car segments (Low, Medium, High price) dominate the market?  
-10. How can management drill into a specific manufacturer’s performance?
+10. How can management drill into a specific manufacturer’s performance?.
 
  Business Impact:
 ✅ Improved decision-making for pricing and marketing through real-time insights.  
